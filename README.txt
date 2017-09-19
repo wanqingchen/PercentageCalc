@@ -1,6 +1,8 @@
 A simple calculator to calculate percentage.
 
-To use it, enter number and percentage in the corresponding positions. Click on “Push Me” button to jump to another screen to see the result.  
+To use it, enter a number and a percentage in the corresponding positions. Click on “Push Me” 
+button to jump to another screen to see the result.  
+
 This App can run on Android 6.0 (Marshmallow).
 
 What I learned from it:
